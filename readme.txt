@@ -9,4 +9,6 @@ add pick:
 MID: Vladimir
 add pick:
 ADC: Tristana
+add pick:
+TOP: Fizz, Irelia
 
