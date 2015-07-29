@@ -1,0 +1,6 @@
+TOP: Maokai, Gnar
+JUNGLE: Rek'Sai, Gragas
+MID: Orianna, Ahri
+ADC: Sivir, Corki
+SUPPORT: Alistar, Braum
+
