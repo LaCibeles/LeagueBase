@@ -10,5 +10,9 @@ MID: Vladimir
 add pick:
 ADC: Tristana
 add pick:
-TOP: Rumble, Shen
+<<<<<<< HEAD
+TOP: Fizz, Irelia
+=======
+TOP: Fizz, Irelia
+>>>>>>> b4f493ee79219ffbb924ddfb7a06a6e710290dbc
 
